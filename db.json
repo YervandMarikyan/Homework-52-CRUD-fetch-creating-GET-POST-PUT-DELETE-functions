@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "title": "Learn JavaScript",
+      "id": 1
+    },
+    {
+      "title": "Learn TypeScript",
+      "id": 2
+    },
+    {
+      "title": "Learn Vue.js",
+      "id": 3
+    },
+    {
+      "title": "Learn Node.js + Nest.js",
+      "id": 4
+    },
+    {
+      "title": "Learn Svelte",
+      "id": 5
+    }
+  ]
+}
